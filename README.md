@@ -35,14 +35,7 @@ Take code-related issues to the actual project repos.
 ## 📌 How to Use Discussions
 
 - Use **GitHub Discussions** (not Issues)
-- Pick the right category:
-  - 💡 Ideas
-  - 🧪 Experiments
-  - 🛠️ Tech Talk
-  - 🧠 Brainstorm
-  - 📢 Announcements
-
-Clear titles = faster replies.
+- Just hangout bruh
 
 ---
 
